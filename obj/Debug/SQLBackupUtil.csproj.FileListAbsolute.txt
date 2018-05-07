@@ -1,0 +1,13 @@
+C:\_Work\SQLBackupUtil\bin\Debug\SQLBackupUtil.exe.config
+C:\_Work\SQLBackupUtil\bin\Debug\SQLBackupUtil.exe
+C:\_Work\SQLBackupUtil\bin\Debug\SQLBackupUtil.pdb
+C:\_Work\SQLBackupUtil\bin\Debug\Ionic.Zip.dll
+C:\_Work\SQLBackupUtil\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\_Work\SQLBackupUtil\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\_Work\SQLBackupUtil\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\_Work\SQLBackupUtil\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\_Work\SQLBackupUtil\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\_Work\SQLBackupUtil\bin\Debug\ru\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\_Work\SQLBackupUtil\obj\Debug\ResolveAssemblyReference.cache
+C:\_Work\SQLBackupUtil\obj\Debug\SQLBackupUtil.exe
+C:\_Work\SQLBackupUtil\obj\Debug\SQLBackupUtil.pdb

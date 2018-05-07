@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LBXplode", "LBXplode.vcproj", "{303E4860-AA71-4CE5-BBB0-DA362B0A86EF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{303E4860-AA71-4CE5-BBB0-DA362B0A86EF}.Debug.ActiveCfg = Debug|Win32
+		{303E4860-AA71-4CE5-BBB0-DA362B0A86EF}.Debug.Build.0 = Debug|Win32
+		{303E4860-AA71-4CE5-BBB0-DA362B0A86EF}.Release.ActiveCfg = Release|Win32
+		{303E4860-AA71-4CE5-BBB0-DA362B0A86EF}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

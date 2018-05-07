@@ -1,0 +1,13 @@
+C:\_Work\SQLExpressBackup\bin\Release\OmegaPilotAgent.exe.config
+C:\_Work\SQLExpressBackup\bin\Release\OmegaPilotAgent.exe
+C:\_Work\SQLExpressBackup\bin\Release\OmegaPilotAgent.pdb
+C:\_Work\SQLExpressBackup\bin\Release\Ionic.Zip.dll
+C:\_Work\SQLExpressBackup\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+C:\_Work\SQLExpressBackup\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\_Work\SQLExpressBackup\bin\Release\Microsoft.SqlServer.Smo.dll
+C:\_Work\SQLExpressBackup\bin\Release\Microsoft.SqlServer.SmoExtended.dll
+C:\_Work\SQLExpressBackup\bin\Release\Microsoft.SqlServer.SqlEnum.dll
+C:\_Work\SQLExpressBackup\bin\Release\ru\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\_Work\SQLExpressBackup\obj\Release\ResolveAssemblyReference.cache
+C:\_Work\SQLExpressBackup\obj\Release\OmegaPilotAgent.exe
+C:\_Work\SQLExpressBackup\obj\Release\OmegaPilotAgent.pdb

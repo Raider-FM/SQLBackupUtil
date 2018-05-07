@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\OmegaPilotAgent.exe
+bin\Debug\OmegaPilotAgent.pdb
+bin\Debug\Microsoft.SqlServer.Replication.dll
+bin\Debug\Microsoft.SqlServer.BatchParser.dll
+obj\Debug\OmegaPilotAgent.exe
+obj\Debug\OmegaPilotAgent.pdb
+bin\Debug\OmegaPilotAgent.exe.config
+bin\Release\OmegaPilotAgent.exe.config
+bin\Release\OmegaPilotAgent.exe
+bin\Release\OmegaPilotAgent.pdb
+bin\Release\Microsoft.SqlServer.Replication.dll
+bin\Release\Microsoft.SqlServer.BatchParser.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\OmegaPilotAgent.exe
+obj\Release\OmegaPilotAgent.pdb
