@@ -1,7 +1,7 @@
 # SQLBackupUtil
 Small console utility for multiple DB backups. 
 Supports zip compression with password protection and shared network resources as a backup location. 
-Supports sqlserver 2012+ (tested on 2016 Express also)
+Supports Microsoft Sql Server 2012+ (tested on 2016 Express also)
 To configure - edit config file in the application directory.
 Parameters:
 - "SQLServer" - name of the source SQL server
