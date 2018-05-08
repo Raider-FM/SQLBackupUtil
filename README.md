@@ -5,8 +5,8 @@ Supports sqlserver 2012+ (tested on 2016 Express also)
 To configure - edit config file in the application directory.
 Parameters:
 - "SQLServer" - name of the source SQL server
-- "SQLUser" -
-- "SQLPassword" -
+- "SQLUser" - SQL Server username
+- "SQLPassword" - SQL Server password
 - "DBList" - comma separated list of source DBs (Example: "testDB1,testDB2")
 - "DelDays" - int value of the last archive (files older then <DelDays> will be deleted)
 - "KeepOnly" - mask of prev day files that would be kept,"*" - ignore parameter (Example KeepOnly="23_0" means that backups created on 23:00 will be kept only)
