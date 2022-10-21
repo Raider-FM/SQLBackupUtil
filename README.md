@@ -11,7 +11,7 @@ Parameters:
 - "DelDays" - int value of the last archive (files older then <DelDays> will be deleted)
 - "KeepOnly" - mask of prev day files that would be kept,"*" - ignore parameter (Example KeepOnly="23_0" means that backups created on 23:00 will be kept only)
 - "BackupDir" - temporary dir on the server to store DB backup file and archive (Example: "D:\\DBBackupTemp\\")
-- "NetworkBackup" - trigger of the network backup (true/false)
+- "NetworkBackup" - flag of the network backup (true/false)
 - "NetworkDir" - path to the shared network resource to store DB archive (Example: "////Someserver//BackupDB//")
 - "ExecSQLBefore" - sql command that would be executed BEFORE backup process. Could be empty. (Example: "exec stp_StopProcessing" )
 - "ExecSQLAfter" - sql command that would be executed AFTER backup process. Could be empty. (Example: "exec stp_CleanAll" )
